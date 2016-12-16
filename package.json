@@ -1,0 +1,33 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "LIRI app as homework for Northwestern Coding Bootcamp",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uyenlam/liri-node-app.git"
+  },
+  "keywords": [
+    "twitter",
+    "spotify",
+    "request",
+    "liri",
+    "language",
+    "interpretation"
+  ],
+  "author": "Uyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uyenlam/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/uyenlam/liri-node-app#readme",
+  "dependencies": {
+    "inquirer": "^2.0.0",
+    "request": "^2.79.0",
+    "spotify-web-api-node": "^2.3.6",
+    "twitter": "^1.7.0"
+  }
+}
