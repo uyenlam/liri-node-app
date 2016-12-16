@@ -27,7 +27,9 @@
   "dependencies": {
     "inquirer": "^2.0.0",
     "request": "^2.79.0",
+    "rotten-tomatoes-api": "0.0.1",
     "spotify-web-api-node": "^2.3.6",
-    "twitter": "^1.7.0"
+    "twitter": "^1.7.0",
+    "util": "^0.10.3"
   }
 }
